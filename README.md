@@ -143,5 +143,6 @@
 
 Insomnia
 
-![GET Products](.\assets\image.png)
+![GET Products](./assets/image.png)
 
+![POST Products](image.png)
