@@ -54,16 +54,6 @@ router.put('/:id', async (req, res) => {
 
 });
 
-// router.delete('/:id', async (req, res) => {
-//   // delete on tag by its `id` value
-//   try {
-//     const deletedTag = await Tag.destroy({ where: { id: req.params.id } });
-//     res.status(200).json(deletedTag);
-//   } catch (err) {
-//     res.status(400).json(err);
-//   }
-// });
-
 router.delete('/:id', async (req, res) => {
   // Delete the associated records in the product_tag table first
   try {
