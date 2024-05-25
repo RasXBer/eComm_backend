@@ -27,7 +27,7 @@
 ## Getting Started
 
 - npm i
-- [pg](https://node-postgres.com/) and
+- [pg](https://node-postgres.com/) 
 - [Sequelize](https://www.npmjs.com/package/sequelize) 
 - [dotenv](https://www.npmjs.com/package/dotenv) 
 
@@ -143,6 +143,6 @@
 
 Insomnia
 
-![GET Products](./assets/image.png)
+![GET Products](assets/image1.png)
 
-![POST Products](image.png)
+![POST Products](assets/image2.png)
